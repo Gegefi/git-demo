@@ -15,10 +15,7 @@ Test a case!
 
 Practice git diff!
 
-Time is go home!
-
-Tomorrow I do not go work!
-
+Add branch feature2!
 
 
 
